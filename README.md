@@ -7,4 +7,3 @@ I have taken the sound sources from [here](http://research.ics.aalto.fi/ica/cock
 
 I have implemented the code for two mixed sound sources. It is easy to make it run with more sound sources.
 
-[This](http://perso.telecom-paristech.fr/~Cardoso/Papers.PDF/icassp89.pdf) paper explains the algorithm (by and large)implemented here.
