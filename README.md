@@ -1,7 +1,7 @@
 # ICA
 Independent Component Analysis in Python for Cocktail Party Problem and other problems.
 
-To run the code for the Cocktail Party Problem, simply download all the files in the repo and put them in one folder. Then simply run cocktail.py
+To run the code for the Cocktail Party Problem, simply download all the files in the repo and put them in one folder. Then simply run cocktail_FOBI.py
 
 I have taken the sound sources from [here](http://research.ics.aalto.fi/ica/cocktail/cocktail_en.cgi). You can download more sounds from there. 
 
